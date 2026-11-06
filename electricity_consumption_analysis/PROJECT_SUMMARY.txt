@@ -1,0 +1,13 @@
+Electricity Consumption Analysis System
+Intermediate Python project using Pandas and Matplotlib.
+
+Files:
+- electricity_analysis.py: main program
+- data/electricity_data.csv: sample monthly dataset
+- requirements.txt: Python dependencies
+- README.md: installation and usage instructions
+- Electricity_Consumption_Analysis_Project_Report.docx: college report
+
+Run:
+python -m pip install -r requirements.txt
+python electricity_analysis.py
